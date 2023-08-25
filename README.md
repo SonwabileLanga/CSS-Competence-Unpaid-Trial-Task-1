@@ -6,4 +6,5 @@ Layout: Use a CSS grid or flexbox to design a webpage containing a header, main 
 Animation: Implement at least one keyframe animation. This could be a button hover effect, content transition, or any other imaginative implementation.
 Responsiveness: Ensure the design is mobile-friendly. Test on multiple screen sizes.
 Advanced Techniques: Incorporate any two of the following - CSS variables, blend modes, clipping, masking or gradients.
-Performance: Optimize for speed and performance. This might include considering rendering times and minimalistic, efficient coding.
+Performance: Optimize for speed and performance. This might include considering rendering times and minimalistic, efficient coding.![image](https://github.com/SonwabileLanga/CSS-Competence-Unpaid-Trial-Task-1/assets/40062143/d827bc46-4f1e-4582-af63-a6c59b692702)
+
